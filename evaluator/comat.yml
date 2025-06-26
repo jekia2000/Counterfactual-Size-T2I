@@ -1,0 +1,12 @@
+checkpoint_path: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/resource/comat/sdxl/lora"
+model_type: "sdxl"
+sdxl_unet_path: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/resource/comat/sdxl/unet_ft100"
+n_iter: 1
+img: 512
+cfg_scale: 7.5
+cfg_rescale:  0.0
+total_step: 50
+revision: None
+scheduler: 'DDPM'
+tune_text_encoder: False
+batch_size: 64
