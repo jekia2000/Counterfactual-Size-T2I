@@ -1,0 +1,234 @@
+Using device: cuda
+a helicopter with a small glove resting on its side, and a helicopter with a large glove resting on its side.
+{'eval_loss': 0.8098559379577637, 'eval_avg_bleu_rouge': 0.3377067058906875, 'eval_runtime': 3.1791, 'eval_samples_per_second': 15.413, 'eval_steps_per_second': 2.202, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.5663465261459351, 'eval_avg_bleu_rouge': 0.42185647251459535, 'eval_runtime': 2.151, 'eval_samples_per_second': 22.78, 'eval_steps_per_second': 3.254, 'epoch': 2.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5250066518783569, 'eval_avg_bleu_rouge': 0.42791121569582174, 'eval_runtime': 2.11, 'eval_samples_per_second': 23.222, 'eval_steps_per_second': 3.317, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5062866806983948, 'eval_avg_bleu_rouge': 0.43646805442247616, 'eval_runtime': 2.1236, 'eval_samples_per_second': 23.074, 'eval_steps_per_second': 3.296, 'epoch': 4.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5010800361633301, 'eval_avg_bleu_rouge': 0.44445513057728725, 'eval_runtime': 2.1206, 'eval_samples_per_second': 23.106, 'eval_steps_per_second': 3.301, 'epoch': 5.0}
+{'train_runtime': 65.8338, 'train_samples_per_second': 77.24, 'train_steps_per_second': 4.861, 'train_loss': 0.9729527473449707, 'epoch': 5.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+Big glove and small helicopter. The helicopter is much smaller than the glove. Target: Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 4.25801420211792, 'eval_avg_bleu_rouge': 0.07935783636253599, 'eval_runtime': 2.639, 'eval_samples_per_second': 18.568, 'eval_steps_per_second': 2.653, 'epoch': 1.0}
+Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 1.63325035572052, 'eval_avg_bleu_rouge': 0.12147119042284943, 'eval_runtime': 2.4947, 'eval_samples_per_second': 19.642, 'eval_steps_per_second': 2.806, 'epoch': 2.0}
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 0.8647412061691284, 'eval_avg_bleu_rouge': 0.3203402200653601, 'eval_runtime': 2.2337, 'eval_samples_per_second': 21.937, 'eval_steps_per_second': 3.134, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.6071577668190002, 'eval_avg_bleu_rouge': 0.41718869783749635, 'eval_runtime': 2.1483, 'eval_samples_per_second': 22.809, 'eval_steps_per_second': 3.258, 'epoch': 4.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.531395435333252, 'eval_avg_bleu_rouge': 0.42733745041799026, 'eval_runtime': 2.1369, 'eval_samples_per_second': 22.93, 'eval_steps_per_second': 3.276, 'epoch': 5.0}
+{'train_runtime': 47.4176, 'train_samples_per_second': 107.239, 'train_steps_per_second': 6.749, 'train_loss': 2.25758056640625, 'epoch': 5.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+a helicopter with a small glove resting on its side, and a helicopter with a large glove resting on its side.
+{'eval_loss': 0.8098541498184204, 'eval_avg_bleu_rouge': 0.3377067058906875, 'eval_runtime': 2.2915, 'eval_samples_per_second': 21.383, 'eval_steps_per_second': 3.055, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.5663465857505798, 'eval_avg_bleu_rouge': 0.42185647251459535, 'eval_runtime': 2.1332, 'eval_samples_per_second': 22.97, 'eval_steps_per_second': 3.281, 'epoch': 2.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5250059366226196, 'eval_avg_bleu_rouge': 0.42791121569582174, 'eval_runtime': 2.1023, 'eval_samples_per_second': 23.308, 'eval_steps_per_second': 3.33, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5062857866287231, 'eval_avg_bleu_rouge': 0.43646805442247616, 'eval_runtime': 2.0992, 'eval_samples_per_second': 23.342, 'eval_steps_per_second': 3.335, 'epoch': 4.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5010792016983032, 'eval_avg_bleu_rouge': 0.44445513057728725, 'eval_runtime': 2.1287, 'eval_samples_per_second': 23.019, 'eval_steps_per_second': 3.288, 'epoch': 5.0}
+{'train_runtime': 46.8536, 'train_samples_per_second': 108.53, 'train_steps_per_second': 6.83, 'train_loss': 0.9729512214660645, 'epoch': 5.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+Big glove and small helicopter. The helicopter is much smaller than the glove. Target: Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 4.25801420211792, 'eval_avg_bleu_rouge': 0.07935783636253599, 'eval_runtime': 2.6576, 'eval_samples_per_second': 18.438, 'eval_steps_per_second': 2.634, 'epoch': 1.0}
+Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 1.63325035572052, 'eval_avg_bleu_rouge': 0.12147119042284943, 'eval_runtime': 2.4851, 'eval_samples_per_second': 19.717, 'eval_steps_per_second': 2.817, 'epoch': 2.0}
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 0.8647412061691284, 'eval_avg_bleu_rouge': 0.3203402200653601, 'eval_runtime': 2.2362, 'eval_samples_per_second': 21.912, 'eval_steps_per_second': 3.13, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.6071577668190002, 'eval_avg_bleu_rouge': 0.41718869783749635, 'eval_runtime': 2.1375, 'eval_samples_per_second': 22.924, 'eval_steps_per_second': 3.275, 'epoch': 4.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.531395673751831, 'eval_avg_bleu_rouge': 0.42733745041799026, 'eval_runtime': 2.13, 'eval_samples_per_second': 23.004, 'eval_steps_per_second': 3.286, 'epoch': 5.0}
+{'train_runtime': 47.9716, 'train_samples_per_second': 106.0, 'train_steps_per_second': 6.671, 'train_loss': 2.25758056640625, 'epoch': 5.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+a helicopter with a small glove resting on its side, and a helicopter with a large glove resting on its side.
+{'eval_loss': 0.8098543286323547, 'eval_avg_bleu_rouge': 0.3377067058906875, 'eval_runtime': 2.2965, 'eval_samples_per_second': 21.336, 'eval_steps_per_second': 3.048, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.5663465261459351, 'eval_avg_bleu_rouge': 0.42185647251459535, 'eval_runtime': 2.1357, 'eval_samples_per_second': 22.943, 'eval_steps_per_second': 3.278, 'epoch': 2.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5250058770179749, 'eval_avg_bleu_rouge': 0.42791121569582174, 'eval_runtime': 2.1008, 'eval_samples_per_second': 23.324, 'eval_steps_per_second': 3.332, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5062856078147888, 'eval_avg_bleu_rouge': 0.43646805442247616, 'eval_runtime': 2.1086, 'eval_samples_per_second': 23.239, 'eval_steps_per_second': 3.32, 'epoch': 4.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5010790824890137, 'eval_avg_bleu_rouge': 0.44445513057728725, 'eval_runtime': 2.1251, 'eval_samples_per_second': 23.057, 'eval_steps_per_second': 3.294, 'epoch': 5.0}
+{'train_runtime': 46.8505, 'train_samples_per_second': 108.537, 'train_steps_per_second': 6.83, 'train_loss': 0.9729509353637695, 'epoch': 5.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+Big glove and small helicopter. The helicopter is much smaller than the glove. Target: Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 4.25801420211792, 'eval_avg_bleu_rouge': 0.07935783636253599, 'eval_runtime': 2.652, 'eval_samples_per_second': 18.476, 'eval_steps_per_second': 2.639, 'epoch': 1.0}
+Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 1.63325035572052, 'eval_avg_bleu_rouge': 0.12147119042284943, 'eval_runtime': 2.4867, 'eval_samples_per_second': 19.705, 'eval_steps_per_second': 2.815, 'epoch': 2.0}
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 0.8647417426109314, 'eval_avg_bleu_rouge': 0.3203402200653601, 'eval_runtime': 2.2453, 'eval_samples_per_second': 21.823, 'eval_steps_per_second': 3.118, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.6071575880050659, 'eval_avg_bleu_rouge': 0.41718869783749635, 'eval_runtime': 2.1385, 'eval_samples_per_second': 22.913, 'eval_steps_per_second': 3.273, 'epoch': 4.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5313947796821594, 'eval_avg_bleu_rouge': 0.42733745041799026, 'eval_runtime': 2.1447, 'eval_samples_per_second': 22.847, 'eval_steps_per_second': 3.264, 'epoch': 5.0}
+{'train_runtime': 47.818, 'train_samples_per_second': 106.341, 'train_steps_per_second': 6.692, 'train_loss': 2.257579040527344, 'epoch': 5.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+a large glove resting on a table, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.48139703273773193, 'eval_avg_bleu_rouge': 0.45677995939066174, 'eval_runtime': 2.1599, 'eval_samples_per_second': 22.686, 'eval_steps_per_second': 3.241, 'epoch': 1.0}
+a big glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4468030035495758, 'eval_avg_bleu_rouge': 0.44314990845463487, 'eval_runtime': 2.0922, 'eval_samples_per_second': 23.421, 'eval_steps_per_second': 3.346, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4302127957344055, 'eval_avg_bleu_rouge': 0.4782804308304365, 'eval_runtime': 2.1117, 'eval_samples_per_second': 23.204, 'eval_steps_per_second': 3.315, 'epoch': 3.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4276506006717682, 'eval_avg_bleu_rouge': 0.4689476421034562, 'eval_runtime': 2.0567, 'eval_samples_per_second': 23.824, 'eval_steps_per_second': 3.403, 'epoch': 4.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4264403283596039, 'eval_avg_bleu_rouge': 0.470985011716605, 'eval_runtime': 2.1128, 'eval_samples_per_second': 23.192, 'eval_steps_per_second': 3.313, 'epoch': 5.0}
+{'train_runtime': 46.1187, 'train_samples_per_second': 110.259, 'train_steps_per_second': 6.939, 'train_loss': 0.6225247383117676, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 1.6258800029754639, 'eval_avg_bleu_rouge': 0.12993660580940886, 'eval_runtime': 2.3637, 'eval_samples_per_second': 20.73, 'eval_steps_per_second': 2.961, 'epoch': 1.0}
+a huge glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.585335373878479, 'eval_avg_bleu_rouge': 0.4304936157404886, 'eval_runtime': 2.0869, 'eval_samples_per_second': 23.479, 'eval_steps_per_second': 3.354, 'epoch': 2.0}
+a large glove resting on a table, with a tiny helicopter hovering above the palm.
+{'eval_loss': 0.47638019919395447, 'eval_avg_bleu_rouge': 0.4497073797219416, 'eval_runtime': 2.0502, 'eval_samples_per_second': 23.9, 'eval_steps_per_second': 3.414, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4492619037628174, 'eval_avg_bleu_rouge': 0.4519649879132757, 'eval_runtime': 2.0525, 'eval_samples_per_second': 23.873, 'eval_steps_per_second': 3.41, 'epoch': 4.0}
+a giant glove lying on the ground, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4389479458332062, 'eval_avg_bleu_rouge': 0.46437508413810247, 'eval_runtime': 2.1026, 'eval_samples_per_second': 23.305, 'eval_steps_per_second': 3.329, 'epoch': 5.0}
+{'train_runtime': 46.1596, 'train_samples_per_second': 110.161, 'train_steps_per_second': 6.932, 'train_loss': 1.3839735984802246, 'epoch': 5.0}
+a giant glove lying on the ground, with a tiny helicopter hovering above its palm.
+a large glove resting on a table, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4813968241214752, 'eval_avg_bleu_rouge': 0.45677995939066174, 'eval_runtime': 2.1069, 'eval_samples_per_second': 23.257, 'eval_steps_per_second': 3.322, 'epoch': 1.0}
+a big glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44680291414260864, 'eval_avg_bleu_rouge': 0.44314990845463487, 'eval_runtime': 2.0342, 'eval_samples_per_second': 24.088, 'eval_steps_per_second': 3.441, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4302126169204712, 'eval_avg_bleu_rouge': 0.4782804308304365, 'eval_runtime': 2.0986, 'eval_samples_per_second': 23.349, 'eval_steps_per_second': 3.336, 'epoch': 3.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4276503622531891, 'eval_avg_bleu_rouge': 0.4689476421034562, 'eval_runtime': 2.054, 'eval_samples_per_second': 23.856, 'eval_steps_per_second': 3.408, 'epoch': 4.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.42644020915031433, 'eval_avg_bleu_rouge': 0.470985011716605, 'eval_runtime': 2.1035, 'eval_samples_per_second': 23.295, 'eval_steps_per_second': 3.328, 'epoch': 5.0}
+{'train_runtime': 46.4312, 'train_samples_per_second': 109.517, 'train_steps_per_second': 6.892, 'train_loss': 0.6225227355957031, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 1.6258797645568848, 'eval_avg_bleu_rouge': 0.12993660580940886, 'eval_runtime': 2.3471, 'eval_samples_per_second': 20.877, 'eval_steps_per_second': 2.982, 'epoch': 1.0}
+a huge glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.5853350758552551, 'eval_avg_bleu_rouge': 0.4304936157404886, 'eval_runtime': 2.675, 'eval_samples_per_second': 18.318, 'eval_steps_per_second': 2.617, 'epoch': 2.0}
+a large glove resting on a table, with a tiny helicopter hovering above the palm.
+{'eval_loss': 0.476379930973053, 'eval_avg_bleu_rouge': 0.4497073797219416, 'eval_runtime': 2.0562, 'eval_samples_per_second': 23.83, 'eval_steps_per_second': 3.404, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44926172494888306, 'eval_avg_bleu_rouge': 0.4519649879132757, 'eval_runtime': 2.0591, 'eval_samples_per_second': 23.797, 'eval_steps_per_second': 3.4, 'epoch': 4.0}
+a giant glove lying on the ground, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4389478266239166, 'eval_avg_bleu_rouge': 0.46437508413810247, 'eval_runtime': 2.1041, 'eval_samples_per_second': 23.287, 'eval_steps_per_second': 3.327, 'epoch': 5.0}
+{'train_runtime': 50.8793, 'train_samples_per_second': 99.942, 'train_steps_per_second': 6.289, 'train_loss': 1.3839729309082032, 'epoch': 5.0}
+a giant glove lying on the ground, with a tiny helicopter hovering above its palm.
+a large glove resting on a table, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4813965857028961, 'eval_avg_bleu_rouge': 0.45677995939066174, 'eval_runtime': 2.1099, 'eval_samples_per_second': 23.224, 'eval_steps_per_second': 3.318, 'epoch': 1.0}
+a big glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44680356979370117, 'eval_avg_bleu_rouge': 0.44314990845463487, 'eval_runtime': 2.0393, 'eval_samples_per_second': 24.028, 'eval_steps_per_second': 3.433, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4302126467227936, 'eval_avg_bleu_rouge': 0.4782804308304365, 'eval_runtime': 2.1086, 'eval_samples_per_second': 23.238, 'eval_steps_per_second': 3.32, 'epoch': 3.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4276498556137085, 'eval_avg_bleu_rouge': 0.4689476421034562, 'eval_runtime': 2.0598, 'eval_samples_per_second': 23.789, 'eval_steps_per_second': 3.398, 'epoch': 4.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.42643994092941284, 'eval_avg_bleu_rouge': 0.470985011716605, 'eval_runtime': 2.1185, 'eval_samples_per_second': 23.129, 'eval_steps_per_second': 3.304, 'epoch': 5.0}
+{'train_runtime': 46.2551, 'train_samples_per_second': 109.934, 'train_steps_per_second': 6.918, 'train_loss': 0.6225204467773438, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+Big glove and small helicopter. The helicopter is much smaller than the glove.
+{'eval_loss': 1.6258790493011475, 'eval_avg_bleu_rouge': 0.12993660580940886, 'eval_runtime': 2.352, 'eval_samples_per_second': 20.834, 'eval_steps_per_second': 2.976, 'epoch': 1.0}
+a huge glove resting on a table, with a tiny helicopter hovering above the glove.
+{'eval_loss': 0.5853350758552551, 'eval_avg_bleu_rouge': 0.4304936157404886, 'eval_runtime': 2.0851, 'eval_samples_per_second': 23.5, 'eval_steps_per_second': 3.357, 'epoch': 2.0}
+a large glove resting on a table, with a tiny helicopter hovering above the palm.
+{'eval_loss': 0.4763796329498291, 'eval_avg_bleu_rouge': 0.4497073797219416, 'eval_runtime': 2.0491, 'eval_samples_per_second': 23.913, 'eval_steps_per_second': 3.416, 'epoch': 3.0}
+a large glove resting on a table, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44926100969314575, 'eval_avg_bleu_rouge': 0.4519649879132757, 'eval_runtime': 2.0554, 'eval_samples_per_second': 23.839, 'eval_steps_per_second': 3.406, 'epoch': 4.0}
+a giant glove lying on the ground, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4389474391937256, 'eval_avg_bleu_rouge': 0.46437508413810247, 'eval_runtime': 2.095, 'eval_samples_per_second': 23.389, 'eval_steps_per_second': 3.341, 'epoch': 5.0}
+{'train_runtime': 46.8975, 'train_samples_per_second': 108.428, 'train_steps_per_second': 6.823, 'train_loss': 1.3839720726013183, 'epoch': 5.0}
+a giant glove lying on the ground, with a tiny helicopter hovering above its palm.
+a large glove resting on a surface, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.45499202609062195, 'eval_avg_bleu_rouge': 0.46760842598552155, 'eval_runtime': 2.0915, 'eval_samples_per_second': 23.428, 'eval_steps_per_second': 3.347, 'epoch': 1.0}
+a big glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.44046252965927124, 'eval_avg_bleu_rouge': 0.4520558181679918, 'eval_runtime': 2.0792, 'eval_samples_per_second': 23.566, 'eval_steps_per_second': 3.367, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.42623162269592285, 'eval_avg_bleu_rouge': 0.477607848323516, 'eval_runtime': 2.1928, 'eval_samples_per_second': 22.346, 'eval_steps_per_second': 3.192, 'epoch': 3.0}
+a giant glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4298136532306671, 'eval_avg_bleu_rouge': 0.46744624197260953, 'eval_runtime': 2.0792, 'eval_samples_per_second': 23.567, 'eval_steps_per_second': 3.367, 'epoch': 4.0}
+a large glove lying open, with a tiny helicopter hovering nearby.
+{'eval_loss': 0.434303879737854, 'eval_avg_bleu_rouge': 0.4517340386841424, 'eval_runtime': 2.1188, 'eval_samples_per_second': 23.127, 'eval_steps_per_second': 3.304, 'epoch': 5.0}
+{'train_runtime': 46.1879, 'train_samples_per_second': 110.094, 'train_steps_per_second': 6.928, 'train_loss': 0.5413624763488769, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 1.072725772857666, 'eval_avg_bleu_rouge': 0.23516323963673252, 'eval_runtime': 2.2456, 'eval_samples_per_second': 21.82, 'eval_steps_per_second': 3.117, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5014946460723877, 'eval_avg_bleu_rouge': 0.43209435316987876, 'eval_runtime': 2.0825, 'eval_samples_per_second': 23.53, 'eval_steps_per_second': 3.361, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44773462414741516, 'eval_avg_bleu_rouge': 0.4785357359667861, 'eval_runtime': 2.019, 'eval_samples_per_second': 24.27, 'eval_steps_per_second': 3.467, 'epoch': 3.0}
+a massive glove lies open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4376940131187439, 'eval_avg_bleu_rouge': 0.4665846654473022, 'eval_runtime': 2.0831, 'eval_samples_per_second': 23.522, 'eval_steps_per_second': 3.36, 'epoch': 4.0}
+a giant glove lying open, with a tiny helicopter hovering near its thumb.
+{'eval_loss': 0.43491923809051514, 'eval_avg_bleu_rouge': 0.46648304343415303, 'eval_runtime': 2.1147, 'eval_samples_per_second': 23.171, 'eval_steps_per_second': 3.31, 'epoch': 5.0}
+{'train_runtime': 46.3435, 'train_samples_per_second': 109.724, 'train_steps_per_second': 6.905, 'train_loss': 1.1502199172973633, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+a large glove resting on a surface, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4549919068813324, 'eval_avg_bleu_rouge': 0.46760842598552155, 'eval_runtime': 2.1007, 'eval_samples_per_second': 23.325, 'eval_steps_per_second': 3.332, 'epoch': 1.0}
+a big glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.44046124815940857, 'eval_avg_bleu_rouge': 0.4520558181679918, 'eval_runtime': 2.0844, 'eval_samples_per_second': 23.508, 'eval_steps_per_second': 3.358, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.42623087763786316, 'eval_avg_bleu_rouge': 0.477607848323516, 'eval_runtime': 2.1087, 'eval_samples_per_second': 23.237, 'eval_steps_per_second': 3.32, 'epoch': 3.0}
+a giant glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.42981475591659546, 'eval_avg_bleu_rouge': 0.46744624197260953, 'eval_runtime': 2.0865, 'eval_samples_per_second': 23.484, 'eval_steps_per_second': 3.355, 'epoch': 4.0}
+a large glove lying open, with a tiny helicopter hovering nearby.
+{'eval_loss': 0.4343041777610779, 'eval_avg_bleu_rouge': 0.4517340386841424, 'eval_runtime': 2.1264, 'eval_samples_per_second': 23.044, 'eval_steps_per_second': 3.292, 'epoch': 5.0}
+{'train_runtime': 46.5198, 'train_samples_per_second': 109.308, 'train_steps_per_second': 6.879, 'train_loss': 0.5413599967956543, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 1.0727248191833496, 'eval_avg_bleu_rouge': 0.23516323963673252, 'eval_runtime': 2.2551, 'eval_samples_per_second': 21.729, 'eval_steps_per_second': 3.104, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5014940500259399, 'eval_avg_bleu_rouge': 0.43209435316987876, 'eval_runtime': 2.0789, 'eval_samples_per_second': 23.57, 'eval_steps_per_second': 3.367, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44773542881011963, 'eval_avg_bleu_rouge': 0.4785357359667861, 'eval_runtime': 2.0323, 'eval_samples_per_second': 24.11, 'eval_steps_per_second': 3.444, 'epoch': 3.0}
+a massive glove lies open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4376954436302185, 'eval_avg_bleu_rouge': 0.4665846654473022, 'eval_runtime': 2.0898, 'eval_samples_per_second': 23.447, 'eval_steps_per_second': 3.35, 'epoch': 4.0}
+a giant glove lying open, with a tiny helicopter hovering near its thumb.
+{'eval_loss': 0.4349241852760315, 'eval_avg_bleu_rouge': 0.46648304343415303, 'eval_runtime': 2.0913, 'eval_samples_per_second': 23.431, 'eval_steps_per_second': 3.347, 'epoch': 5.0}
+{'train_runtime': 46.8435, 'train_samples_per_second': 108.553, 'train_steps_per_second': 6.831, 'train_loss': 1.1502190589904786, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+a large glove resting on a surface, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4549914002418518, 'eval_avg_bleu_rouge': 0.46760842598552155, 'eval_runtime': 2.0905, 'eval_samples_per_second': 23.439, 'eval_steps_per_second': 3.348, 'epoch': 1.0}
+a big glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.440460205078125, 'eval_avg_bleu_rouge': 0.4520558181679918, 'eval_runtime': 2.083, 'eval_samples_per_second': 23.524, 'eval_steps_per_second': 3.361, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4262307286262512, 'eval_avg_bleu_rouge': 0.477607848323516, 'eval_runtime': 2.0331, 'eval_samples_per_second': 24.102, 'eval_steps_per_second': 3.443, 'epoch': 3.0}
+a giant glove lying open, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.42981719970703125, 'eval_avg_bleu_rouge': 0.46744624197260953, 'eval_runtime': 2.083, 'eval_samples_per_second': 23.524, 'eval_steps_per_second': 3.361, 'epoch': 4.0}
+a large glove lying open, with a tiny helicopter hovering nearby.
+{'eval_loss': 0.4343049228191376, 'eval_avg_bleu_rouge': 0.4517340386841424, 'eval_runtime': 2.1191, 'eval_samples_per_second': 23.123, 'eval_steps_per_second': 3.303, 'epoch': 5.0}
+{'train_runtime': 46.4237, 'train_samples_per_second': 109.535, 'train_steps_per_second': 6.893, 'train_loss': 0.5413575172424316, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above its palm.
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 1.0727230310440063, 'eval_avg_bleu_rouge': 0.23516323963673252, 'eval_runtime': 2.2532, 'eval_samples_per_second': 21.747, 'eval_steps_per_second': 3.107, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5014936327934265, 'eval_avg_bleu_rouge': 0.43209435316987876, 'eval_runtime': 2.0769, 'eval_samples_per_second': 23.593, 'eval_steps_per_second': 3.37, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4477347135543823, 'eval_avg_bleu_rouge': 0.4785357359667861, 'eval_runtime': 2.0185, 'eval_samples_per_second': 24.275, 'eval_steps_per_second': 3.468, 'epoch': 3.0}
+a massive glove lies open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4376959800720215, 'eval_avg_bleu_rouge': 0.4665846654473022, 'eval_runtime': 2.0848, 'eval_samples_per_second': 23.503, 'eval_steps_per_second': 3.358, 'epoch': 4.0}
+a giant glove lying open, with a tiny helicopter hovering near its thumb.
+{'eval_loss': 0.4349289834499359, 'eval_avg_bleu_rouge': 0.46648304343415303, 'eval_runtime': 2.0983, 'eval_samples_per_second': 23.352, 'eval_steps_per_second': 3.336, 'epoch': 5.0}
+{'train_runtime': 46.4092, 'train_samples_per_second': 109.569, 'train_steps_per_second': 6.895, 'train_loss': 1.1502180099487305, 'epoch': 5.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+Best config of value 0.4785357359667861:
+{'learning_rate': 0.0001, 'weight_decay': 0.0, 'warmup_steps': 500}
+a giant glove with a tiny helicopter hovering over it.
+{'eval_loss': 1.072725772857666, 'eval_avg_bleu_rouge': 0.23516323963673252, 'eval_runtime': 2.2488, 'eval_samples_per_second': 21.79, 'eval_steps_per_second': 3.113, 'epoch': 1.0}
+a large glove resting on a table, with a tiny helicopter hovering near the opening.
+{'eval_loss': 0.5014946460723877, 'eval_avg_bleu_rouge': 0.43209435316987876, 'eval_runtime': 2.0771, 'eval_samples_per_second': 23.591, 'eval_steps_per_second': 3.37, 'epoch': 2.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.44773462414741516, 'eval_avg_bleu_rouge': 0.4785357359667861, 'eval_runtime': 2.013, 'eval_samples_per_second': 24.342, 'eval_steps_per_second': 3.477, 'epoch': 3.0}
+a massive glove lies open, with a tiny helicopter hovering above it.
+{'eval_loss': 0.4376940131187439, 'eval_avg_bleu_rouge': 0.4665846654473022, 'eval_runtime': 2.087, 'eval_samples_per_second': 23.479, 'eval_steps_per_second': 3.354, 'epoch': 4.0}
+a giant glove lying open, with a tiny helicopter hovering near its thumb.
+{'eval_loss': 0.43491923809051514, 'eval_avg_bleu_rouge': 0.46648304343415303, 'eval_runtime': 2.0695, 'eval_samples_per_second': 23.677, 'eval_steps_per_second': 3.382, 'epoch': 5.0}
+a big glove lying open, with a tiny helicopter hovering near its thumb.
+{'eval_loss': 0.43682581186294556, 'eval_avg_bleu_rouge': 0.4656516473485466, 'eval_runtime': 2.0803, 'eval_samples_per_second': 23.555, 'eval_steps_per_second': 3.365, 'epoch': 6.0}
+{'train_runtime': 48.0072, 'train_samples_per_second': 423.687, 'train_steps_per_second': 26.663, 'train_loss': 1.0342608292897542, 'epoch': 6.0}
+a large glove lying open, with a tiny helicopter hovering above it.
+Final best score is 0.4785357359667861

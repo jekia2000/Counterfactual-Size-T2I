@@ -1,0 +1,16 @@
+Using device: cuda
+a giant glove resting on the ground, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4846705496311188, 'eval_avg_bleu_rouge': 0.4498582520078029, 'eval_runtime': 7.4435, 'eval_samples_per_second': 6.583, 'eval_steps_per_second': 0.94, 'epoch': 1.0}
+a large glove open wide, with a small helicopter hovering above its palm.
+{'eval_loss': 0.4328116178512573, 'eval_avg_bleu_rouge': 0.4270203692056159, 'eval_runtime': 5.4456, 'eval_samples_per_second': 8.998, 'eval_steps_per_second': 1.285, 'epoch': 2.0}
+a large glove lying open, with a small helicopter perched on its palm.
+{'eval_loss': 0.4181245267391205, 'eval_avg_bleu_rouge': 0.431932224374515, 'eval_runtime': 5.3992, 'eval_samples_per_second': 9.075, 'eval_steps_per_second': 1.296, 'epoch': 3.0}
+a huge glove on the ground, with a tiny helicopter hovering above its palm.
+{'eval_loss': 0.4425811469554901, 'eval_avg_bleu_rouge': 0.43935501380971, 'eval_runtime': 5.0237, 'eval_samples_per_second': 9.754, 'eval_steps_per_second': 1.393, 'epoch': 4.0}
+a giant glove lying open, with a tiny helicopter hovering just above its palm.
+{'eval_loss': 0.4779130518436432, 'eval_avg_bleu_rouge': 0.4257149241095588, 'eval_runtime': 5.4959, 'eval_samples_per_second': 8.916, 'eval_steps_per_second': 1.274, 'epoch': 5.0}
+a giant glove lying open, with a tiny helicopter resting in its palm.
+{'eval_loss': 0.4968588054180145, 'eval_avg_bleu_rouge': 0.425350104637069, 'eval_runtime': 5.3735, 'eval_samples_per_second': 9.119, 'eval_steps_per_second': 1.303, 'epoch': 6.0}
+{'train_runtime': 262.7795, 'train_samples_per_second': 77.403, 'train_steps_per_second': 4.871, 'train_loss': 0.7192393143971761, 'epoch': 6.0}
+a giant glove resting on the ground, with a tiny helicopter hovering above its palm.
+Final best score is 0.4498582520078029

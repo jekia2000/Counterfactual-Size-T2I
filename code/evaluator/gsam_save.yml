@@ -1,0 +1,13 @@
+config: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/code/Grounded-Segment-Anything/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py"
+grounded_checkpoint: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/resource/gsam/groundingdino_swint_ogc.pth"
+sam_version: "vit_l"
+sam_checkpoint: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/resource/gsam/sam_vit_l_0b3195.pth"
+sam_hq_checkpoint: None
+use_sam_hq: False
+bert_base_uncased_path: ""
+embeddings: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/resource/stored_embeddings_mask.npz"
+box_threshold: 0.3
+text_threshold: 0.25
+iou_threshold: 0.8
+device: "cuda"
+img_path: "/leonardo_work/EUHPC_B25_058/aleksa_files/downloaded_work/resource/images"

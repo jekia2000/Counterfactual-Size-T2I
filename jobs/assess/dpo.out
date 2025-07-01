@@ -1,0 +1,7 @@
+dependencies loaded
+Usign device: cuda
+length content: 1004
+end
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+Accuracy according to the evaluator: 0.2749003984063745

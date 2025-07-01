@@ -1,0 +1,244 @@
+Using device: cuda
+a large chicken and a small ambulance van.
+{'eval_loss': 0.9187136292457581, 'eval_avg_bleu_rouge': 0.3632387408443619, 'eval_runtime': 2.2607, 'eval_samples_per_second': 21.674, 'eval_steps_per_second': 3.096, 'epoch': 1.0}
+a large chicken lying open, with a tiny ambulance parked near its collar.
+{'eval_loss': 0.5287317037582397, 'eval_avg_bleu_rouge': 0.5235840206225905, 'eval_runtime': 2.0365, 'eval_samples_per_second': 24.061, 'eval_steps_per_second': 3.437, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.47312241792678833, 'eval_avg_bleu_rouge': 0.5318962193152974, 'eval_runtime': 2.0429, 'eval_samples_per_second': 23.985, 'eval_steps_per_second': 3.426, 'epoch': 3.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.45184531807899475, 'eval_avg_bleu_rouge': 0.5285719092948522, 'eval_runtime': 2.0387, 'eval_samples_per_second': 24.035, 'eval_steps_per_second': 3.434, 'epoch': 4.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.4448273181915283, 'eval_avg_bleu_rouge': 0.524261799166677, 'eval_runtime': 2.0729, 'eval_samples_per_second': 23.638, 'eval_steps_per_second': 3.377, 'epoch': 5.0}
+{'train_runtime': 44.6402, 'train_samples_per_second': 91.509, 'train_steps_per_second': 5.824, 'train_loss': 0.857001730111929, 'epoch': 5.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+Big chicken and small ambulance van. The ambulance van is much smaller than the chicken. Photo: Big chicken and small ambulance van. The ambulance van is much smaller
+{'eval_loss': 4.98293399810791, 'eval_avg_bleu_rouge': 0.07865610862653556, 'eval_runtime': 2.5935, 'eval_samples_per_second': 18.893, 'eval_steps_per_second': 2.699, 'epoch': 1.0}
+Big chicken and small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 2.080461025238037, 'eval_avg_bleu_rouge': 0.1055634420110925, 'eval_runtime': 2.7016, 'eval_samples_per_second': 18.137, 'eval_steps_per_second': 2.591, 'epoch': 2.0}
+a large chicken and a small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 1.2294204235076904, 'eval_avg_bleu_rouge': 0.25778685597300366, 'eval_runtime': 2.1758, 'eval_samples_per_second': 22.52, 'eval_steps_per_second': 3.217, 'epoch': 3.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.6582911014556885, 'eval_avg_bleu_rouge': 0.45298220847846854, 'eval_runtime': 2.0229, 'eval_samples_per_second': 24.223, 'eval_steps_per_second': 3.46, 'epoch': 4.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.5058573484420776, 'eval_avg_bleu_rouge': 0.5258379180366858, 'eval_runtime': 2.0609, 'eval_samples_per_second': 23.777, 'eval_steps_per_second': 3.397, 'epoch': 5.0}
+{'train_runtime': 42.9119, 'train_samples_per_second': 95.195, 'train_steps_per_second': 6.059, 'train_loss': 2.4549342228816107, 'epoch': 5.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+a large chicken and a small ambulance van.
+{'eval_loss': 0.9187120795249939, 'eval_avg_bleu_rouge': 0.3632387408443619, 'eval_runtime': 2.0333, 'eval_samples_per_second': 24.099, 'eval_steps_per_second': 3.443, 'epoch': 1.0}
+a large chicken lying open, with a tiny ambulance parked near its collar.
+{'eval_loss': 0.5287305116653442, 'eval_avg_bleu_rouge': 0.5235840206225905, 'eval_runtime': 2.0339, 'eval_samples_per_second': 24.092, 'eval_steps_per_second': 3.442, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.47312167286872864, 'eval_avg_bleu_rouge': 0.5318962193152974, 'eval_runtime': 2.0376, 'eval_samples_per_second': 24.048, 'eval_steps_per_second': 3.435, 'epoch': 3.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.4518444538116455, 'eval_avg_bleu_rouge': 0.5285719092948522, 'eval_runtime': 2.0429, 'eval_samples_per_second': 23.985, 'eval_steps_per_second': 3.426, 'epoch': 4.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.4448263943195343, 'eval_avg_bleu_rouge': 0.524261799166677, 'eval_runtime': 2.0485, 'eval_samples_per_second': 23.92, 'eval_steps_per_second': 3.417, 'epoch': 5.0}
+{'train_runtime': 41.6557, 'train_samples_per_second': 98.066, 'train_steps_per_second': 6.242, 'train_loss': 0.8570003802959736, 'epoch': 5.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+Big chicken and small ambulance van. The ambulance van is much smaller than the chicken. Photo: Big chicken and small ambulance van. The ambulance van is much smaller
+{'eval_loss': 4.98293399810791, 'eval_avg_bleu_rouge': 0.07865610862653556, 'eval_runtime': 2.5893, 'eval_samples_per_second': 18.924, 'eval_steps_per_second': 2.703, 'epoch': 1.0}
+Big chicken and small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 2.080461025238037, 'eval_avg_bleu_rouge': 0.1055634420110925, 'eval_runtime': 2.6996, 'eval_samples_per_second': 18.151, 'eval_steps_per_second': 2.593, 'epoch': 2.0}
+a large chicken and a small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 1.2294204235076904, 'eval_avg_bleu_rouge': 0.25778685597300366, 'eval_runtime': 2.1744, 'eval_samples_per_second': 22.535, 'eval_steps_per_second': 3.219, 'epoch': 3.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.6582911014556885, 'eval_avg_bleu_rouge': 0.45298220847846854, 'eval_runtime': 2.0209, 'eval_samples_per_second': 24.247, 'eval_steps_per_second': 3.464, 'epoch': 4.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.5058573484420776, 'eval_avg_bleu_rouge': 0.5258379180366858, 'eval_runtime': 2.0599, 'eval_samples_per_second': 23.787, 'eval_steps_per_second': 3.398, 'epoch': 5.0}
+{'train_runtime': 43.1542, 'train_samples_per_second': 94.661, 'train_steps_per_second': 6.025, 'train_loss': 2.4549342228816107, 'epoch': 5.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+a large chicken and a small ambulance van.
+{'eval_loss': 0.91871178150177, 'eval_avg_bleu_rouge': 0.3632387408443619, 'eval_runtime': 2.0316, 'eval_samples_per_second': 24.119, 'eval_steps_per_second': 3.446, 'epoch': 1.0}
+a large chicken lying open, with a tiny ambulance parked near its collar.
+{'eval_loss': 0.5287304520606995, 'eval_avg_bleu_rouge': 0.5235840206225905, 'eval_runtime': 2.0318, 'eval_samples_per_second': 24.117, 'eval_steps_per_second': 3.445, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.47312188148498535, 'eval_avg_bleu_rouge': 0.5318962193152974, 'eval_runtime': 2.0403, 'eval_samples_per_second': 24.016, 'eval_steps_per_second': 3.431, 'epoch': 3.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.45184439420700073, 'eval_avg_bleu_rouge': 0.5285719092948522, 'eval_runtime': 2.0436, 'eval_samples_per_second': 23.977, 'eval_steps_per_second': 3.425, 'epoch': 4.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.44482600688934326, 'eval_avg_bleu_rouge': 0.524261799166677, 'eval_runtime': 2.0621, 'eval_samples_per_second': 23.762, 'eval_steps_per_second': 3.395, 'epoch': 5.0}
+{'train_runtime': 41.5406, 'train_samples_per_second': 98.338, 'train_steps_per_second': 6.259, 'train_loss': 0.8570000281700721, 'epoch': 5.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+Big chicken and small ambulance van. The ambulance van is much smaller than the chicken. Photo: Big chicken and small ambulance van. The ambulance van is much smaller
+{'eval_loss': 4.98293399810791, 'eval_avg_bleu_rouge': 0.07865610862653556, 'eval_runtime': 2.5809, 'eval_samples_per_second': 18.986, 'eval_steps_per_second': 2.712, 'epoch': 1.0}
+Big chicken and small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 2.080461025238037, 'eval_avg_bleu_rouge': 0.1055634420110925, 'eval_runtime': 2.6953, 'eval_samples_per_second': 18.18, 'eval_steps_per_second': 2.597, 'epoch': 2.0}
+a large chicken and a small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 1.2294203042984009, 'eval_avg_bleu_rouge': 0.25778685597300366, 'eval_runtime': 2.1751, 'eval_samples_per_second': 22.528, 'eval_steps_per_second': 3.218, 'epoch': 3.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.6582911014556885, 'eval_avg_bleu_rouge': 0.45298220847846854, 'eval_runtime': 2.0185, 'eval_samples_per_second': 24.276, 'eval_steps_per_second': 3.468, 'epoch': 4.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.5058566927909851, 'eval_avg_bleu_rouge': 0.5258379180366858, 'eval_runtime': 2.0633, 'eval_samples_per_second': 23.748, 'eval_steps_per_second': 3.393, 'epoch': 5.0}
+{'train_runtime': 43.05, 'train_samples_per_second': 94.89, 'train_steps_per_second': 6.039, 'train_loss': 2.4549335186298076, 'epoch': 5.0}
+a large chicken lying open, with a tiny ambulance parked beside its shell.
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.41285133361816406, 'eval_avg_bleu_rouge': 0.5395045772671714, 'eval_runtime': 2.066, 'eval_samples_per_second': 23.717, 'eval_steps_per_second': 3.388, 'epoch': 1.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37491723895072937, 'eval_avg_bleu_rouge': 0.520134997482684, 'eval_runtime': 2.0178, 'eval_samples_per_second': 24.283, 'eval_steps_per_second': 3.469, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3773253560066223, 'eval_avg_bleu_rouge': 0.5263873536503862, 'eval_runtime': 1.9921, 'eval_samples_per_second': 24.597, 'eval_steps_per_second': 3.514, 'epoch': 3.0}
+a huge chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3764590322971344, 'eval_avg_bleu_rouge': 0.5346750984996199, 'eval_runtime': 2.0001, 'eval_samples_per_second': 24.498, 'eval_steps_per_second': 3.5, 'epoch': 4.0}
+a huge chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37416890263557434, 'eval_avg_bleu_rouge': 0.532748280708713, 'eval_runtime': 2.0129, 'eval_samples_per_second': 24.343, 'eval_steps_per_second': 3.478, 'epoch': 5.0}
+{'train_runtime': 41.1925, 'train_samples_per_second': 99.169, 'train_steps_per_second': 6.312, 'train_loss': 0.4849178901085487, 'epoch': 5.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+Big chicken and small ambulance van. Photo: Big chicken and small ambulance van.
+
+window._taboola = window._taboola || []; _taboola.push({
+{'eval_loss': 2.032644510269165, 'eval_avg_bleu_rouge': 0.10940678682653769, 'eval_runtime': 2.5327, 'eval_samples_per_second': 19.347, 'eval_steps_per_second': 2.764, 'epoch': 1.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.6419533491134644, 'eval_avg_bleu_rouge': 0.48540335051856165, 'eval_runtime': 2.0286, 'eval_samples_per_second': 24.154, 'eval_steps_per_second': 3.451, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.44724708795547485, 'eval_avg_bleu_rouge': 0.5201239060271826, 'eval_runtime': 2.0209, 'eval_samples_per_second': 24.246, 'eval_steps_per_second': 3.464, 'epoch': 3.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3841409385204315, 'eval_avg_bleu_rouge': 0.5399398689495188, 'eval_runtime': 2.0117, 'eval_samples_per_second': 24.358, 'eval_steps_per_second': 3.48, 'epoch': 4.0}
+a large chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37481141090393066, 'eval_avg_bleu_rouge': 0.5330988886909936, 'eval_runtime': 2.0914, 'eval_samples_per_second': 23.43, 'eval_steps_per_second': 3.347, 'epoch': 5.0}
+{'train_runtime': 42.1707, 'train_samples_per_second': 96.868, 'train_steps_per_second': 6.165, 'train_loss': 1.4044694166917067, 'epoch': 5.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.41285377740859985, 'eval_avg_bleu_rouge': 0.5395045772671714, 'eval_runtime': 2.0679, 'eval_samples_per_second': 23.696, 'eval_steps_per_second': 3.385, 'epoch': 1.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3749156594276428, 'eval_avg_bleu_rouge': 0.520134997482684, 'eval_runtime': 2.0203, 'eval_samples_per_second': 24.253, 'eval_steps_per_second': 3.465, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37732553482055664, 'eval_avg_bleu_rouge': 0.5263873536503862, 'eval_runtime': 1.9905, 'eval_samples_per_second': 24.617, 'eval_steps_per_second': 3.517, 'epoch': 3.0}
+a huge chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3764594793319702, 'eval_avg_bleu_rouge': 0.5346750984996199, 'eval_runtime': 2.3315, 'eval_samples_per_second': 21.016, 'eval_steps_per_second': 3.002, 'epoch': 4.0}
+a huge chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37416887283325195, 'eval_avg_bleu_rouge': 0.532748280708713, 'eval_runtime': 2.0227, 'eval_samples_per_second': 24.225, 'eval_steps_per_second': 3.461, 'epoch': 5.0}
+{'train_runtime': 44.0106, 'train_samples_per_second': 92.819, 'train_steps_per_second': 5.908, 'train_loss': 0.48491630554199217, 'epoch': 5.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+Big chicken and small ambulance van. Photo: Big chicken and small ambulance van.
+
+window._taboola = window._taboola || []; _taboola.push({
+{'eval_loss': 2.032644510269165, 'eval_avg_bleu_rouge': 0.10940678682653769, 'eval_runtime': 2.5357, 'eval_samples_per_second': 19.324, 'eval_steps_per_second': 2.761, 'epoch': 1.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.64195317029953, 'eval_avg_bleu_rouge': 0.48540335051856165, 'eval_runtime': 2.024, 'eval_samples_per_second': 24.209, 'eval_steps_per_second': 3.458, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.4472474157810211, 'eval_avg_bleu_rouge': 0.5201239060271826, 'eval_runtime': 2.0245, 'eval_samples_per_second': 24.204, 'eval_steps_per_second': 3.458, 'epoch': 3.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3841409385204315, 'eval_avg_bleu_rouge': 0.5399398689495188, 'eval_runtime': 2.013, 'eval_samples_per_second': 24.342, 'eval_steps_per_second': 3.477, 'epoch': 4.0}
+a large chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3748110830783844, 'eval_avg_bleu_rouge': 0.5330988886909936, 'eval_runtime': 2.1704, 'eval_samples_per_second': 22.577, 'eval_steps_per_second': 3.225, 'epoch': 5.0}
+{'train_runtime': 42.3106, 'train_samples_per_second': 96.548, 'train_steps_per_second': 6.145, 'train_loss': 1.4044690645658053, 'epoch': 5.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.4128550589084625, 'eval_avg_bleu_rouge': 0.5395045772671714, 'eval_runtime': 2.0699, 'eval_samples_per_second': 23.673, 'eval_steps_per_second': 3.382, 'epoch': 1.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3749135136604309, 'eval_avg_bleu_rouge': 0.520134997482684, 'eval_runtime': 2.0147, 'eval_samples_per_second': 24.322, 'eval_steps_per_second': 3.475, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37732502818107605, 'eval_avg_bleu_rouge': 0.5263873536503862, 'eval_runtime': 2.0134, 'eval_samples_per_second': 24.336, 'eval_steps_per_second': 3.477, 'epoch': 3.0}
+a huge chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37645846605300903, 'eval_avg_bleu_rouge': 0.5346750984996199, 'eval_runtime': 2.0018, 'eval_samples_per_second': 24.478, 'eval_steps_per_second': 3.497, 'epoch': 4.0}
+a huge chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3741689920425415, 'eval_avg_bleu_rouge': 0.532748280708713, 'eval_runtime': 2.017, 'eval_samples_per_second': 24.294, 'eval_steps_per_second': 3.471, 'epoch': 5.0}
+{'train_runtime': 41.743, 'train_samples_per_second': 97.861, 'train_steps_per_second': 6.229, 'train_loss': 0.48491439819335935, 'epoch': 5.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+Big chicken and small ambulance van. Photo: Big chicken and small ambulance van.
+
+window._taboola = window._taboola || []; _taboola.push({
+{'eval_loss': 2.0326437950134277, 'eval_avg_bleu_rouge': 0.10940678682653769, 'eval_runtime': 2.5349, 'eval_samples_per_second': 19.33, 'eval_steps_per_second': 2.761, 'epoch': 1.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.6419522166252136, 'eval_avg_bleu_rouge': 0.48540335051856165, 'eval_runtime': 2.025, 'eval_samples_per_second': 24.197, 'eval_steps_per_second': 3.457, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.44724759459495544, 'eval_avg_bleu_rouge': 0.5201239060271826, 'eval_runtime': 2.0159, 'eval_samples_per_second': 24.307, 'eval_steps_per_second': 3.472, 'epoch': 3.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3841410279273987, 'eval_avg_bleu_rouge': 0.5399398689495188, 'eval_runtime': 2.0121, 'eval_samples_per_second': 24.352, 'eval_steps_per_second': 3.479, 'epoch': 4.0}
+a large chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3748108148574829, 'eval_avg_bleu_rouge': 0.5330988886909936, 'eval_runtime': 2.1334, 'eval_samples_per_second': 22.969, 'eval_steps_per_second': 3.281, 'epoch': 5.0}
+{'train_runtime': 42.4408, 'train_samples_per_second': 96.252, 'train_steps_per_second': 6.126, 'train_loss': 1.4044682429387019, 'epoch': 5.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.397095263004303, 'eval_avg_bleu_rouge': 0.5303157647829653, 'eval_runtime': 2.0666, 'eval_samples_per_second': 23.71, 'eval_steps_per_second': 3.387, 'epoch': 1.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37709784507751465, 'eval_avg_bleu_rouge': 0.5257155167743751, 'eval_runtime': 2.028, 'eval_samples_per_second': 24.161, 'eval_steps_per_second': 3.452, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its back.
+{'eval_loss': 0.38993391394615173, 'eval_avg_bleu_rouge': 0.5208865497204235, 'eval_runtime': 2.5959, 'eval_samples_per_second': 18.876, 'eval_steps_per_second': 2.697, 'epoch': 3.0}
+a massive chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.38854092359542847, 'eval_avg_bleu_rouge': 0.5303540626225057, 'eval_runtime': 1.9866, 'eval_samples_per_second': 24.665, 'eval_steps_per_second': 3.524, 'epoch': 4.0}
+a large chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.38873231410980225, 'eval_avg_bleu_rouge': 0.5282815133094526, 'eval_runtime': 2.0263, 'eval_samples_per_second': 24.182, 'eval_steps_per_second': 3.455, 'epoch': 5.0}
+{'train_runtime': 42.2332, 'train_samples_per_second': 96.725, 'train_steps_per_second': 6.156, 'train_loss': 0.42511080228365383, 'epoch': 5.0}
+a massive chicken crouched on a grass, with a tiny ambulance parked near its claws.
+a large chicken and a small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 1.4557700157165527, 'eval_avg_bleu_rouge': 0.23536957879148382, 'eval_runtime': 2.2009, 'eval_samples_per_second': 22.264, 'eval_steps_per_second': 3.181, 'epoch': 1.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.46451425552368164, 'eval_avg_bleu_rouge': 0.5270213287864183, 'eval_runtime': 2.0297, 'eval_samples_per_second': 24.142, 'eval_steps_per_second': 3.449, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3846166133880615, 'eval_avg_bleu_rouge': 0.5283764468695274, 'eval_runtime': 2.0165, 'eval_samples_per_second': 24.299, 'eval_steps_per_second': 3.471, 'epoch': 3.0}
+a large chicken crouched on the ground, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3778429627418518, 'eval_avg_bleu_rouge': 0.5338397489694997, 'eval_runtime': 2.0225, 'eval_samples_per_second': 24.228, 'eval_steps_per_second': 3.461, 'epoch': 4.0}
+a large chicken crouched on a table, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.376650869846344, 'eval_avg_bleu_rouge': 0.5245813141319591, 'eval_runtime': 2.166, 'eval_samples_per_second': 22.622, 'eval_steps_per_second': 3.232, 'epoch': 5.0}
+{'train_runtime': 43.538, 'train_samples_per_second': 93.826, 'train_steps_per_second': 5.972, 'train_loss': 1.1307416475736178, 'epoch': 5.0}
+a large chicken crouched on the ground, with a tiny ambulance parked near its claws.
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.39709463715553284, 'eval_avg_bleu_rouge': 0.5303157647829653, 'eval_runtime': 2.0684, 'eval_samples_per_second': 23.69, 'eval_steps_per_second': 3.384, 'epoch': 1.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3770971894264221, 'eval_avg_bleu_rouge': 0.5257155167743751, 'eval_runtime': 2.0604, 'eval_samples_per_second': 23.782, 'eval_steps_per_second': 3.397, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its back.
+{'eval_loss': 0.38993433117866516, 'eval_avg_bleu_rouge': 0.5208865497204235, 'eval_runtime': 2.111, 'eval_samples_per_second': 23.212, 'eval_steps_per_second': 3.316, 'epoch': 3.0}
+a massive chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3885408639907837, 'eval_avg_bleu_rouge': 0.5303540626225057, 'eval_runtime': 1.9888, 'eval_samples_per_second': 24.638, 'eval_steps_per_second': 3.52, 'epoch': 4.0}
+a large chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3887312114238739, 'eval_avg_bleu_rouge': 0.5282815133094526, 'eval_runtime': 2.012, 'eval_samples_per_second': 24.354, 'eval_steps_per_second': 3.479, 'epoch': 5.0}
+{'train_runtime': 41.777, 'train_samples_per_second': 97.781, 'train_steps_per_second': 6.224, 'train_loss': 0.42511039147010216, 'epoch': 5.0}
+a massive chicken crouched on a grass, with a tiny ambulance parked near its claws.
+a large chicken and a small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 1.455770492553711, 'eval_avg_bleu_rouge': 0.23536957879148382, 'eval_runtime': 2.1992, 'eval_samples_per_second': 22.281, 'eval_steps_per_second': 3.183, 'epoch': 1.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.4645139276981354, 'eval_avg_bleu_rouge': 0.5270213287864183, 'eval_runtime': 2.0288, 'eval_samples_per_second': 24.152, 'eval_steps_per_second': 3.45, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.38461625576019287, 'eval_avg_bleu_rouge': 0.5283764468695274, 'eval_runtime': 2.0217, 'eval_samples_per_second': 24.237, 'eval_steps_per_second': 3.462, 'epoch': 3.0}
+a large chicken crouched on the ground, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3778418004512787, 'eval_avg_bleu_rouge': 0.5338397489694997, 'eval_runtime': 2.0109, 'eval_samples_per_second': 24.367, 'eval_steps_per_second': 3.481, 'epoch': 4.0}
+a large chicken crouched on a table, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3766501247882843, 'eval_avg_bleu_rouge': 0.5245813141319591, 'eval_runtime': 2.1056, 'eval_samples_per_second': 23.271, 'eval_steps_per_second': 3.324, 'epoch': 5.0}
+{'train_runtime': 41.8299, 'train_samples_per_second': 97.657, 'train_steps_per_second': 6.216, 'train_loss': 1.130741178072416, 'epoch': 5.0}
+a large chicken crouched on the ground, with a tiny ambulance parked near its claws.
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3970940113067627, 'eval_avg_bleu_rouge': 0.5303157647829653, 'eval_runtime': 2.0696, 'eval_samples_per_second': 23.676, 'eval_steps_per_second': 3.382, 'epoch': 1.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37709689140319824, 'eval_avg_bleu_rouge': 0.5257155167743751, 'eval_runtime': 2.031, 'eval_samples_per_second': 24.126, 'eval_steps_per_second': 3.447, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its back.
+{'eval_loss': 0.3899337351322174, 'eval_avg_bleu_rouge': 0.5208865497204235, 'eval_runtime': 2.0171, 'eval_samples_per_second': 24.293, 'eval_steps_per_second': 3.47, 'epoch': 3.0}
+a massive chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.38853976130485535, 'eval_avg_bleu_rouge': 0.5303540626225057, 'eval_runtime': 1.9895, 'eval_samples_per_second': 24.629, 'eval_steps_per_second': 3.518, 'epoch': 4.0}
+a large chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3887315094470978, 'eval_avg_bleu_rouge': 0.5282815133094526, 'eval_runtime': 2.0048, 'eval_samples_per_second': 24.441, 'eval_steps_per_second': 3.492, 'epoch': 5.0}
+{'train_runtime': 41.7291, 'train_samples_per_second': 97.893, 'train_steps_per_second': 6.231, 'train_loss': 0.4251101567195012, 'epoch': 5.0}
+a massive chicken crouched on a grass, with a tiny ambulance parked near its claws.
+a large chicken and a small ambulance van. The ambulance van is much smaller than the chicken.
+{'eval_loss': 1.4557689428329468, 'eval_avg_bleu_rouge': 0.23536957879148382, 'eval_runtime': 2.2024, 'eval_samples_per_second': 22.248, 'eval_steps_per_second': 3.178, 'epoch': 1.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.46451354026794434, 'eval_avg_bleu_rouge': 0.5270213287864183, 'eval_runtime': 2.0284, 'eval_samples_per_second': 24.157, 'eval_steps_per_second': 3.451, 'epoch': 2.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.384615957736969, 'eval_avg_bleu_rouge': 0.5283764468695274, 'eval_runtime': 2.0329, 'eval_samples_per_second': 24.104, 'eval_steps_per_second': 3.443, 'epoch': 3.0}
+a large chicken crouched on the ground, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.377840518951416, 'eval_avg_bleu_rouge': 0.5338397489694997, 'eval_runtime': 2.0222, 'eval_samples_per_second': 24.232, 'eval_steps_per_second': 3.462, 'epoch': 4.0}
+a large chicken crouched on a table, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3766493499279022, 'eval_avg_bleu_rouge': 0.5245813141319591, 'eval_runtime': 2.1668, 'eval_samples_per_second': 22.614, 'eval_steps_per_second': 3.231, 'epoch': 5.0}
+{'train_runtime': 44.7128, 'train_samples_per_second': 91.361, 'train_steps_per_second': 5.815, 'train_loss': 1.130740708571214, 'epoch': 5.0}
+a large chicken crouched on the ground, with a tiny ambulance parked near its claws.
+Best config of value 0.5399398689495188:
+{'learning_rate': 5e-05, 'weight_decay': 0.0, 'warmup_steps': 500}
+Big chicken and small ambulance van. Photo: Big chicken and small ambulance van.
+
+window._taboola = window._taboola || []; _taboola.push({
+{'eval_loss': 2.032644510269165, 'eval_avg_bleu_rouge': 0.10940678682653769, 'eval_runtime': 2.5352, 'eval_samples_per_second': 19.328, 'eval_steps_per_second': 2.761, 'epoch': 1.0}
+a large chicken and a tiny ambulance van.
+{'eval_loss': 0.6419533491134644, 'eval_avg_bleu_rouge': 0.48540335051856165, 'eval_runtime': 2.0249, 'eval_samples_per_second': 24.199, 'eval_steps_per_second': 3.457, 'epoch': 2.0}
+a large chicken lying flat, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.44724708795547485, 'eval_avg_bleu_rouge': 0.5201239060271826, 'eval_runtime': 2.7649, 'eval_samples_per_second': 17.722, 'eval_steps_per_second': 2.532, 'epoch': 3.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+{'eval_loss': 0.3841409385204315, 'eval_avg_bleu_rouge': 0.5399398689495188, 'eval_runtime': 2.033, 'eval_samples_per_second': 24.102, 'eval_steps_per_second': 3.443, 'epoch': 4.0}
+a large chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.37481141090393066, 'eval_avg_bleu_rouge': 0.5330988886909936, 'eval_runtime': 2.0619, 'eval_samples_per_second': 23.764, 'eval_steps_per_second': 3.395, 'epoch': 5.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3793352544307709, 'eval_avg_bleu_rouge': 0.5396910365343018, 'eval_runtime': 2.0252, 'eval_samples_per_second': 24.195, 'eval_steps_per_second': 3.456, 'epoch': 6.0}
+a huge chicken crouched on the ground, with a tiny ambulance parked beside its shell.
+{'eval_loss': 0.3788347542285919, 'eval_avg_bleu_rouge': 0.5319426867057206, 'eval_runtime': 1.9992, 'eval_samples_per_second': 24.509, 'eval_steps_per_second': 3.501, 'epoch': 7.0}
+{'train_runtime': 52.0578, 'train_samples_per_second': 313.882, 'train_steps_per_second': 19.978, 'train_loss': 1.104759048629593, 'epoch': 7.0}
+a giant chicken crouched on a grass, with a tiny ambulance parked near its claws.
+Final best score is 0.5399398689495188

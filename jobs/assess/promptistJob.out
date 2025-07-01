@@ -1,0 +1,3 @@
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+Accuracy according to the evaluator: 0.08167330677290836

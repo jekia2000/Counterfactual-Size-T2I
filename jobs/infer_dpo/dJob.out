@@ -1,0 +1,34 @@
+dependencies loaded
+Usign device: cuda
+end
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+final text_encoder_type: bert-base-uncased
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['label_enc.weight', 'bert.embeddings.position_ids'])
+Accuracy according to the evaluator: 0.2529238851710551
