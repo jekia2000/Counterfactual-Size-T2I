@@ -4,7 +4,7 @@ This project explores techniques to automatically rewrite prompts aiming at gene
 
 # 2. Notes
 Absolute paths were used everywhere for easier management. Three main groups:
-- thesis: the code
+- code: our work's main code
 - resource: images, model weights, etc.
 - jobs: slurm executables and their output
   
@@ -23,7 +23,7 @@ For setting up Grounded SAM, please check out their repository: [Grounded SAM](h
 # 4. Image Evaluator
 Navigate to the evaluator folder with bash scripts
 
-`cd thesis/evaluator/bash_scripts`
+`cd code/evaluator/bash_scripts`
 
 Extract image paths and captions
 
@@ -59,7 +59,7 @@ In ../gsam.yml set the eval_type to 4. If you want to save the images with boxes
 ## 5.1. Preparing the dataset
 Navigate to the gpt folder with bash scripts
 
-`cd thesis/gpt/bash_scripts`
+`cd code/gpt/bash_scripts`
 
 ### 5.1.1. Create partitions of object pairs into train, validation and test
 
@@ -82,7 +82,7 @@ Navigate to the gpt folder with bash scripts
 
 Navigate to the gpt folder with bash scripts
 
-`cd thesis/gpt/bash_scripts`
+`cd code/gpt/bash_scripts`
 
 Then execute
 
@@ -92,7 +92,7 @@ Then execute
 ## 5.3. Evaluate gpt-2 on the test set
 Nvaigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -107,7 +107,7 @@ Then execute
 ### 6.1.1. Generate and evaluate output prompts based on the input prompts from the union of gpt2 training and validation sets (section 3)
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -118,7 +118,7 @@ Then execute
 
 Navigate to the dpo folder with bash scripts
 
-`cd thesis/dpo/bash_scripts`
+`cd code/dpo/bash_scripts`
 
 Execute
 
@@ -129,7 +129,7 @@ Execute
 
 Navigate to the dpo folder with bash scripts
 
-`cd thesis/dpo/bash_scripts`
+`cd code/dpo/bash_scripts`
 
 Execute
 
@@ -139,7 +139,7 @@ Execute
 ## 6.3. Evaluate finetuned GPT-2 via DPO
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -152,7 +152,7 @@ Then execute
 ### 7.1.1. Evaluate small reranker on the test set
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -163,7 +163,7 @@ Then execute
 ### 7.2.1. Supervised Finetune gpt2-large
 Navigate to
 
-`cd thesis/gpt/bash_scripts`
+`cd code/gpt/bash_scripts`
 
 Then execute
 
@@ -172,7 +172,7 @@ Then execute
 ### 7.2.2. Finetune gpt2-large from 5.2.1. via DPO
 Navigate to
 
-`cd thesis/dpo/bash_scripts`
+`cd code/dpo/bash_scripts`
 
 Execute
 
@@ -182,7 +182,7 @@ Execute
 ### 7.2.3. Evaluate big reranker on the test set
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -194,7 +194,7 @@ Then execute
 ## 8.1. Preparing the dataset
 Navigate to 
 
-`cd thesis/gpt/bash_scripts`
+`cd code/gpt/bash_scripts`
 
 Then execute
 
@@ -204,7 +204,7 @@ Then execute
 
 Navigate to 
 
-`cd thesis/gpt/bash_scripts`
+`cd code/gpt/bash_scripts`
 
 Then execute
 
@@ -214,7 +214,7 @@ Then execute
 ## 8.3. Evaluate gpt-2 on the test set
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -224,7 +224,7 @@ Then execute
 ## 9.1. Evaluate Small Reranker Aligned on the test set
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -234,7 +234,7 @@ Then execute
 ## 10.1. Evaluate AutoContra on the test set
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 Then execute
 
@@ -243,7 +243,7 @@ Then execute
 # 11. Evaluating other methods
 Navigate to
 
-`cd thesis/final_assessment/new_bash_scripts`
+`cd code/final_assessment/new_bash_scripts`
 
 
 ## 11.1. ChatGPT-4o
