@@ -1,1 +1,1 @@
-Please read the folder Code.
+Please read the folder code.
